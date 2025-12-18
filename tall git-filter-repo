@@ -1,0 +1,11 @@
+[33mcommit eef7d4b3970bde95605add311dea041366dede75[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: caio <caiobdn6@gmail.com>
+Date:   Thu Dec 18 08:31:16 2025 -0300
+
+    Remove node_modules from repository and add gitignore
+
+[33mcommit 0abd580d3bea9ddd7a6b5ff6976a2a03bd0c6cef[m
+Author: caio <caiobdn6@gmail.com>
+Date:   Thu Dec 18 08:24:30 2025 -0300
+
+    primeiro commit
